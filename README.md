@@ -16,5 +16,7 @@ This was my first experience working with React and Node. Given the widespread u
 * Use of cookies to mantain sessions
 * Explore use of database for mantaining room codes
 
+<img style="display: inline" src="client/src/login.png" alt="Login Page" width="100%">
 <img style="display: inline" src="client/src/sample.png" alt="Chat Page" width="100%">
+
 
